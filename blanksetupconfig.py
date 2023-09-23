@@ -1,4 +1,4 @@
-# Basic setup config file for a project.
+# Setup config file
 import json
 import logging
 from typing import IO, Tuple
