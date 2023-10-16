@@ -1,4 +1,4 @@
-# Setup config file
+''' Setup config file and logging for a project'''
 import json
 import logging
 from typing import IO, Tuple
